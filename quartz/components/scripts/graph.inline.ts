@@ -449,7 +449,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     linkRenderData.push(linkRenderDatum)
   }
 
-  let currentTransform = zoomIdentity.translate(width / 2, height / 2).scale(2)
+  let currentTransform = zoomIdentity.translate(-width / 2, -height / 2).scale(2)
   stage.scale.set(2, 2)
   stage.position.set(-width / 2, -height / 2)
 
