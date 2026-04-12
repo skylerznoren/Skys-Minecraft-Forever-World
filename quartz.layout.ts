@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph({ localGraph: { height: 750, showTags: false, repelForce: 1.5, linkDistance: 60, scale: 5, fontSize: 1.2 }, globalGraph: { showTags: false } }),
+    Component.Graph({ localGraph: { height: 750, showTags: false, repelForce: 1.5, linkDistance: 60, scale: 1.5, fontSize: 3 }, globalGraph: { showTags: false } }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
