@@ -204,6 +204,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -214,17 +215,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "26455cb6f6c8f174",
+  "active": "8b6ced7ff096452f",
   "lastOpenFiles": [
+    "01_Places/Mother Tree.md",
+    "09_Notes/Notable Coordinates.md",
     "10_Reference/Core World Lore Reference 3-5-26.md",
     "Untitled.md",
-    "01_Places/Mother Tree.md",
     "01_Places/Amber Exchange.md",
     "01_Places/Reedmarsh.md",
     "01_Places/Morwenna's Abode.md",
     "01_Places/Flower Forest Village.md",
     "09_Notes/To-Do.md",
-    "09_Notes/Notable Coordinates.md",
     "10_Reference/minecraft-forever-reference-4-6-26.md",
     "10_Reference/obsidian-formatting-reference.md",
     "05_Events/Witch's Sundering.md",
