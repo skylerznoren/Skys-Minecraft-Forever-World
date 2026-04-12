@@ -1,5 +1,4 @@
 @use "./base.scss";
-
 // put your custom CSS here!
 
 hr {
@@ -7,19 +6,12 @@ hr {
   margin-bottom: 0.3rem !important;
 }
 
-
 .graph {
-  height: 600px !important;
   margin-bottom: 2rem !important;
 }
 
 .graph-outer {
-  height: 600px !important;
   margin-bottom: 2rem !important;
-}
-
-.graph-outer canvas {
-  height: 600px !important;
 }
 
 .sidebar.right {
@@ -28,5 +20,5 @@ hr {
 
 .page-header, .center, .page {
   margin-left: 0 !important;
-  padding-left: 2rem !important;
+  padding-left: 0 !important;
 }
