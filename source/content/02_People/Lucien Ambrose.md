@@ -11,7 +11,7 @@ Lucien is lean and well put together, with an easy manner that makes him approac
 
 ## Role
 ---
-Lucien operates the [[Amber Exchange]], managing all commercial dealings on behalf of House Ambrose and the villagers who sell their honey through the family. He is the one traders seek out, the one who sets prices, and the one whose handshake closes a deal. His grooming for this role began early, and he has grown into it thoroughly.
+Lucien operates the [[source/content/01_Places/Amber Exchange]], managing all commercial dealings on behalf of House Ambrose and the villagers who sell their honey through the family. He is the one traders seek out, the one who sets prices, and the one whose handshake closes a deal. His grooming for this role began early, and he has grown into it thoroughly.
 
 He is also one of three people who know the [[The Ambrose Secret|Ambrose Secret]], the truth behind the family's prosperity. The knowledge was passed to him as it has been to every heir before him, a quiet exchange that changed the shape of everything he had built his life around. He has continued the practice without interruption. Whether this is loyalty, pragmatism, or simply the weight of having no clear alternative is a question he tries not let himself sit with for long.
 
@@ -22,5 +22,5 @@ He is also one of three people who know the [[The Ambrose Secret|Ambrose Secret]
 - [[Edric Ambrose]]
 - [[Anthea Ambrose]]
 - [[The Ambrose Secret]]
-- [[Amber Exchange]]
+- [[source/content/01_Places/Amber Exchange]]
 - [[Flower Forest Village]]
