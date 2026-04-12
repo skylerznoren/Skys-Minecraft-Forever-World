@@ -451,9 +451,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     linkRenderData.push(linkRenderDatum)
   }
 
-   let currentTransform = zoomIdentity.translate(-width * 0.45, -height * 0.45).scale(1.6)
+   let currentTransform = zoomIdentity.translate(-width * 0.45, -height * 0.35).scale(1.6)
 stage.scale.set(1.6, 1.6)
-stage.position.set(-width * 0.45, -height * 0.45)
+stage.position.set(-width * 0.45, -height * 0.35)
 
   if (enableDrag) {
     select<HTMLCanvasElement, NodeData | undefined>(app.canvas).call(
