@@ -1,1 +1,14 @@
-{}
+{
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "z_Attachments",
+  "userIgnoreFilters": [
+    "09_Notes/",
+    "10_Reference/"
+  ],
+  "promptDelete": false
+}
