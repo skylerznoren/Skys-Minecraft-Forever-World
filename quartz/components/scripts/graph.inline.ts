@@ -362,6 +362,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     eventMode: "static",
   })
   graph.appendChild(app.canvas)
+  app.canvas.style.display = "block"
+  app.canvas.style.margin = "0 auto"
 
   const stage = app.stage
   stage.interactive = false
