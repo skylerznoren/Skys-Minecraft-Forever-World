@@ -9,13 +9,17 @@ hr {
 
 
 .graph {
-  height: 500px !important;
+  height: 750px !important;
 }
 
 .graph-outer {
-  height: 400px !important;
+  height: 750px !important;
 }
 
 .graph-outer canvas {
-  height: 400px !important;
+  height: 750px !important;
+}
+
+.sidebar.right {
+  width: 750px !important;
 }
