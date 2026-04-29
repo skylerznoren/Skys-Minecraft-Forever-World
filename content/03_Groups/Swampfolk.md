@@ -1,7 +1,9 @@
 ---
 type: group
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [group, great-swamp, verdant-veins]
 ---
 The [[Swampfolk]] are the human peoples native to [[The Great Swamp|the Great Swamp]] and its surrounding wetlands, most notably centered around the community of [[Reedmarsh]] and the broader region of the southeastern swamp. They are defined less by a formal identity than by a shared relationship with the land they inhabit and the [[Verdant Veins]] that run beneath it.

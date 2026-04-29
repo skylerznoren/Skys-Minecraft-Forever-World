@@ -1,7 +1,9 @@
 ---
 type: person
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [person, great-swamp]
 ---
 [[Fensar Reedhand]] was the head elder of [[Reedmarsh]] in the period following the [[Witch's Sundering]] and one of the two signatories of the [[Pact of Root & Reed]], signed alongside [[Taarvin Mossbough]] of the [[Thornspire Heartwood]]. He is the tenth great-grandfather of the current head elder of Reedmarsh, and his decisions continue to shape the relationship between the two communities to this day.

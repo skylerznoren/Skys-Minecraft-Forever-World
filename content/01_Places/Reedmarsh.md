@@ -1,7 +1,9 @@
 ---
 type: place
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [place, great-swamp, verdant-veins, trade]
 ---
 [[Reedmarsh]] is a village built at the southern foot of the [[Thornspire Heartwood]], where the [[The Great Swamp|Great Swamp]] meets the old growth forest rising on the hill above. Its outer reaches are classic swamp settlement, stilt houses connected by plank walkways above waterlogged ground, but its heart sits higher on a natural hill whose slopes are carved through by marshy ravines and gorges that channel all foot traffic toward the village center. The great tree of the Heartwood looms to the northwest, visible from anywhere in the surrounding swamp despite sitting a good distance away.

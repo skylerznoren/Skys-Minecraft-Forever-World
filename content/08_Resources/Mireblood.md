@@ -1,7 +1,9 @@
 ---
 type: resource
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [resource, great-swamp, verdant-veins, magic]
 ---
 [[Mireblood]] is the alchemical substance that forms deep beneath the peat of [[The Great Swamp|the Great Swamp]], where centuries of organic decay, mineral pressure, and magical residue concentrate into a dense, slow-moving liquid. It is the physical expression of the [[Verdant Veins]] made tangible, and is considered sacred by every people who have lived in the swamp long enough to understand what it is. It is known colloquially as [[Mireblood|Witchsap.]], a name that originated with outside traders but has since become common currency within the swamp as well.
@@ -27,7 +29,7 @@ Mireblood can be refined into several distinct alchemical yields, each correspon
 
 ## Cultural Significance
 ---
-To [[The Swampfolk of Reedmarsh|the Swampfolk of Reedmarsh]] and the people of the [[Thornspire Heartwood]], Mireblood is sacred. If it is not taken sparingly, then it must not be taken at all. Overharvesting is understood not merely as ecological damage but as a spiritual trespass against the living body of the swamp. [[Grandmother Eswa]] of Reedmarsh, among the eldest living inhabitants of the swamp, is one of several elders who remember what the swamp felt like before extraction began at its current scale.
+To [[Swampfolk of Reedmarsh|the Swampfolk of Reedmarsh]] and the people of the [[Thornspire Heartwood]], Mireblood is sacred. If it is not taken sparingly, then it must not be taken at all. Overharvesting is understood not merely as ecological damage but as a spiritual trespass against the living body of the swamp. [[Grandmother Eswa]] of Reedmarsh, among the eldest living inhabitants of the swamp, is one of several elders who remember what the swamp felt like before extraction began at its current scale.
 
 To the [[Exiled Witches]], Mireblood was and remains a birthright, a catalyst for their craft. Their growing hunger to accelerate its harvest and bend the Verdant Veins to their will was among the central causes of the [[Witch's Sundering]].
 

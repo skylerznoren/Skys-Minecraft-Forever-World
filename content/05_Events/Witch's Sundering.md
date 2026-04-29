@@ -1,7 +1,9 @@
 ---
 type: event
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [event, great-swamp, verdant-veins, magic]
 ---
 The Witch's Sundering was the fracture between the communities of [[Reedmarsh]] and the [[Thornspire Heartwood]] and those among them who would become known as the [[Exiled Witches]], ending in the exile of [[Morwenna of the Hollow]] and her followers into the northern reaches of [[The Great Swamp|the Great Swamp]]. It remains the defining event of the region, and its consequences have never fully resolved.

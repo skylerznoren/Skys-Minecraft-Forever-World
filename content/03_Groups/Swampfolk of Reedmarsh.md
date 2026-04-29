@@ -1,7 +1,9 @@
 ---
 type: group
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [group, great-swamp, verdant-veins]
 ---
 The [[Swampfolk]] of [[Reedmarsh]] are the people native to the village at the southern foot of the [[Thornspire Heartwood]], and among the most established human communities within [[The Great Swamp|the Great Swamp]]. They are practical and more open to outside contact than most of their neighbors, though that openness has been tested in recent memory.

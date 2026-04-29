@@ -1,7 +1,9 @@
 ---
 type: group
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [group, great-swamp, verdant-veins, magic]
 ---
 The [[Exiled Witches]] are the descendants and successors of those who were driven from the communities of [[Reedmarsh]] and the [[Thornspire Heartwood]] during the [[Witch's Sundering]]. Before the Sundering they were not a distinct faction at all, but ordinary members of the swamp communities; healers, herbalists, and practitioners of subtle magic who lived and worked alongside fishermen, farmers, and elders without meaningful separation. The exile made them into something else.
@@ -24,4 +26,4 @@ Not everyone with ties to magical practice left with Morwenna. Some stayed in Re
 
 ## Relationship to the Present
 ---
-[[The Swampfolk of Reedmarsh]] maintain an official position of exile that has never been formally revisited. In practice, attitudes vary. Older residents carry the Sundering as a lived inheritance and tend toward wariness. Younger generations are more likely to question whether the exile was proportionate, or necessary, or even fully honest in how it has been remembered. The arrival of the [[Cauldron Tap]] and the behavior of the [[Sap Suckers]] has sharpened this questioning for some; the thing the witches were exiled for pales against what outsiders are now doing openly and without consequence.
+[[Swampfolk of Reedmarsh]] maintain an official position of exile that has never been formally revisited. In practice, attitudes vary. Older residents carry the Sundering as a lived inheritance and tend toward wariness. Younger generations are more likely to question whether the exile was proportionate, or necessary, or even fully honest in how it has been remembered. The arrival of the [[Cauldron Tap]] and the behavior of the [[Sap Suckers]] has sharpened this questioning for some; the thing the witches were exiled for pales against what outsiders are now doing openly and without consequence.

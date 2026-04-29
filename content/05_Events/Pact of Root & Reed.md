@@ -1,7 +1,9 @@
 ---
 type: event
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [event, great-swamp, verdant-veins, magic]
 ---
 The [[Pact of Root & Reed]] is a formal agreement between the people of [[Reedmarsh]] and the people of the [[Thornspire Heartwood]], establishing the terms of mutual cooperation between the two communities. It is among the oldest documented agreements in the region and remains the foundation of the relationship between the two settlements to this day.

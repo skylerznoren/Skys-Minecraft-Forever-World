@@ -1,7 +1,9 @@
 ---
 type: place
-region: Flower Forest Peninsula
+region: flower-forest
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [place, flower-forest, apiarianism, trade]
 ---
 The Amber Exchange is a factoring house situated at the crest of the hill in the [[Flower Forest Village]], operated by [[House Ambrose]] as the central point of trade for the village's honey output. It is the face of the Ambrose commercial operation and the place where outside traders come to do business.

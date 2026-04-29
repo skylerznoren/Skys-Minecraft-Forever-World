@@ -1,7 +1,9 @@
 ---
 type: group
-region: Flower Forest Peninsula
+region: flower-forest
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [group, flower-forest, apiarianism, trade]
 ---
 [[House Ambrose]] is the most prominent family in the [[Flower Forest Village]], renowned for their apiary and their central role in the village's honey trade. For generations the Ambrose name has been synonymous with [[Apiarianism|Apiarian]] devotion, and they are widely regarded as living proof that harmony with the bees brings prosperity. The name Ambrose is old, its origins traced by scholars to a word meaning divine, a detail the family has never discouraged.

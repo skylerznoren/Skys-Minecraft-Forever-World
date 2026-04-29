@@ -1,7 +1,9 @@
 ---
 type: place
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [place, great-swamp, verdant-veins]
 ---
 The [[Mother Tree]] is the ancient tree at the heart of the [[Thornspire Heartwood]], known to the [[Thornkin]] by her sacred name [[Mother Tree|Vethara]], spoken only in ritual and blessing. She is the sole known example of the thornspire, a species unlike any other in the region, and the anchor point of the [[Verdant Veins]] that run through the entire southeastern [[The Great Swamp|Great Swamp]].

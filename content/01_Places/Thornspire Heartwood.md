@@ -1,7 +1,9 @@
 ---
 type: place
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [place, great-swamp, verdant-veins]
 ---
 The [[Thornspire Heartwood]] is an ancient forest set atop a plateau rising from [[The Great Swamp|the Great Swamp]], home to the [[Thornkin]] and the oldest living thing in the region, the [[Mother Tree|mother tree]] they call [[Mother Tree|Vethara]] in ritual and blessing. It is the anchor point of the [[Verdant Veins]] and the most defensible and secretive settlement in the southeastern swamp.

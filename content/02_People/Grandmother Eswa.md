@@ -1,7 +1,9 @@
 ---
 type: person
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [person, great-swamp, verdant-veins, magic]
 ---
 [[Grandmother Eswa]] is an elder of [[Reedmarsh]] and among the most respected living members of the swamp community. She holds no formal title, but the current head elder and others regularly seek her counsel before making consequential decisions. She is one of the few people still alive who remembers the [[Cauldron Tap|Cauldron Tap's]] installation, and what the swamp felt like before it.

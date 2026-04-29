@@ -1,7 +1,9 @@
 ---
 type: concept
-region: Flower Forest Peninsula
+region: flower-forest
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [concept, flower-forest, apiarianism, trade]
 ---
 The Ambrose Secret is the hidden practice maintained by [[House Ambrose]] beneath their estate in the [[Flower Forest Village]], and the true source of the family's extraordinary honey yields, their distinctive product, and the foundation of their wealth and prominence.

@@ -1,7 +1,9 @@
 ---
 type: place
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [place, great-swamp, verdant-veins, magic]
 ---
 [[Morwenna's Abode]] is the dwelling of [[Morwenna of the Hollow]], located on a small island deep in the northern reaches of [[The Great Swamp|the Great Swamp]], within a mangrove swamp she chose specifically for its remoteness. The [[01_Places/Morwenna's Abode|Abode]] is unknown to the communities of [[Reedmarsh]] and the [[Thornspire Heartwood]], and most who remember her name assume she died long ago.

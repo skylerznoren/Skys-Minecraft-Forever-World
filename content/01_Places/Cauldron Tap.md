@@ -1,7 +1,9 @@
 ---
 type: place
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [place, great-swamp, verdant-veins, trade]
 ---
 The [[Cauldron Tap]] is an industrial extraction structure built atop the site of an old witch hut on the western edge of [[Reedmarsh]], operated by the [[Sap Suckers]] for the purpose of harvesting [[Mireblood]] from [[The Great Swamp|the Great Swamp]]. It is the most visible and immediate threat to the stability of the [[Verdant Veins]] in the region.

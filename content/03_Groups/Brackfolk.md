@@ -1,7 +1,9 @@
 ---
 type: group
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [group, great-swamp, verdant-veins]
 ---
 The Brackfolk are an amphibious people inhabiting the submerged ravines, root caverns, and brackish waterways of [[The Great Swamp|the Great Swamp]]. They are almost entirely unknown to the surface communities of the region, including [[Reedmarsh]], whose residents share the same waterways without any awareness of what moves beneath them. Among themselves they are known as the **Glaudren**, meaning roughly people of the grey-green murk, a name that reflects both their appearance and the waters they inhabit.
@@ -28,4 +30,4 @@ Ten generations ago, during the [[Witch's Sundering]] and its aftermath, several
 ---
 The Glaudren maintain their secrecy as a foundational principle. Surface communities are kept ignorant of their settlements and their nature. Individual Glaudren occasionally move among surface dwellers when necessary, passing well enough in dim conditions or at a distance to avoid scrutiny. These interactions are practical rather than social.
 
-The arrival of the [[Cauldron Tap]] disrupted water flow and drew Mireblood-rich sediment away from root systems and submerged groves that the Glaudren consider sacred. Their response has been quiet and persistent, dismantling unattended machinery, tangling equipment, and scattering cargo when the opportunity presents itself. In this they are acting in parallel with the younger [[The Swampfolk of Reedmarsh|Swampfolk of Reedmarsh]], though neither group is aware the other is doing the same thing.
+The arrival of the [[Cauldron Tap]] disrupted water flow and drew Mireblood-rich sediment away from root systems and submerged groves that the Glaudren consider sacred. Their response has been quiet and persistent, dismantling unattended machinery, tangling equipment, and scattering cargo when the opportunity presents itself. In this they are acting in parallel with the younger [[Swampfolk of Reedmarsh|Swampfolk of Reedmarsh]], though neither group is aware the other is doing the same thing.

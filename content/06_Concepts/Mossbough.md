@@ -1,7 +1,9 @@
 ---
 type: concept
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [concept, great-swamp, verdant-veins]
 ---
 [[Mossbough]] is the name and title assumed by the leader of the [[Thornkin]] upon taking their position as guardian of the [[Thornspire Heartwood]] and the [[Mother Tree]]. It is not inherited by blood or passed through family lines, but given to whoever the Thornkin judge most fit to bear it. Upon assuming the name, the new Mossbough sets aside their family name and replaces it with Mossbough, keeping only their given name. They belong to the Heartwood from that point forward rather than to any family within it.

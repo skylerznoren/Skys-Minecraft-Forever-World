@@ -1,7 +1,9 @@
 ---
 type: place
-region: Flower Forest Peninsula
+region: flower-forest
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [place, flower-forest, apiarianism, trade]
 ---
 The [[Flower Forest Village]] is a settlement on the [[Flower Forest Peninsula|flower forest peninsula]], shaped by generations of [[Apiarianism|Apiarian]] tradition. It is best known across the region for its honey, which is traded widely and considered among the finest available.

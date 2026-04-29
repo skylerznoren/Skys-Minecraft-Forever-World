@@ -1,10 +1,12 @@
 ---
 type: group
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [group, great-swamp, verdant-veins, trade]
 ---
-The Sap Suckers is the name used by [[The Swampfolk of Reedmarsh|the Swampfolk of Reedmarsh]] and others in the region for the outside faction operating the [[Cauldron Tap]] and extracting [[Mireblood]] from [[The Great Swamp|the Great Swamp]] for outside sale. Their true identity, origin, and organizational backing remain unknown to anyone in the swamp.
+The Sap Suckers is the name used by [[Swampfolk of Reedmarsh|the Swampfolk of Reedmarsh]] and others in the region for the outside faction operating the [[Cauldron Tap]] and extracting [[Mireblood]] from [[The Great Swamp|the Great Swamp]] for outside sale. Their true identity, origin, and organizational backing remain unknown to anyone in the swamp.
 
 ## Operations
 ---

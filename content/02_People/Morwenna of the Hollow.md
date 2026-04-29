@@ -1,7 +1,9 @@
 ---
 type: person
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [person, great-swamp, verdant-veins, magic]
 ---
 [[Morwenna of the Hollow]] was a healer and seer of [[Reedmarsh]], once among the most respected practitioners of herbal craft and alchemical magic in the region. She is best known as the central figure of the [[Witch's Sundering]], the event that divided the swamp communities and produced the [[Exiled Witches]] as a distinct faction. She has not been seen in the southeastern swamp in many generations.

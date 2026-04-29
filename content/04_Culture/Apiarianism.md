@@ -1,7 +1,9 @@
 ---
 type: concept
-region: Flower Forest Peninsula
+region: flower-forest
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [concept, flower-forest, apiarianism]
 ---
 [[Apiarianism]] is the system of beliefs, customs, and ritual practices centered on bees in the [[Flower Forest Village|Flower Forest villages]]. What began as a founding philosophy has shaped every aspect of village culture, from social expectations to interpretations of fortune and misfortune.

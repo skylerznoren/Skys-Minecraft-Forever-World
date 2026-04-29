@@ -1,7 +1,9 @@
 ---
 type: person
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [person, great-swamp]
 ---
 [[Taarvin Mossbough]] was a leader of the [[Thornkin]] of the [[Thornspire Heartwood]] in the period surrounding the [[Witch's Sundering]], and the principal drafter of the [[Pact of Root & Reed]]. He is among the most historically significant holders of the [[Mossbough]] name, remembered in both the Heartwood and [[Reedmarsh]] as the figure who formalized the alliance between the two communities at the moment it was most needed. He is also, though this is not how the Thornkin tend to frame it, the reason the Heartwood closed itself off from the wider world.

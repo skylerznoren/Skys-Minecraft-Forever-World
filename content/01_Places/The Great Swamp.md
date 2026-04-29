@@ -1,7 +1,9 @@
 ---
 type: place
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [place, great-swamp, verdant-veins]
 ---
 [[The Great Swamp]] is a vast wetland region far to the northeast of the [[Flower Forest Peninsula]], spanning a far greater area than most outsiders who have encountered its edges would suspect. It is the seat of the [[Verdant Veins]] and home to several distinct communities whose lives are shaped entirely by it.

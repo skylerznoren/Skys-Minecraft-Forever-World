@@ -1,7 +1,9 @@
 ---
 type: group
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [group, great-swamp, verdant-veins]
 ---
 The [[Thornkin]] are the people of the [[Thornspire Heartwood]], a druidic culture that has inhabited the ancient spruce forest and guarded the mother tree at its center for as long as any record in the region reaches. They are distinct from the [[Swampfolk]] of the surrounding wetlands, and the two peoples, while long allied through the [[Pact of Root & Reed]], are not the same.

@@ -1,7 +1,9 @@
 ---
 type: person
-region: Great Swamp
+region: great-swamp
 status: draft
+created: before 04-12-2026
+last_updated: 2026-04-28
 tags: [person, great-swamp]
 ---
 Corin Reedhand is the current head elder of [[Reedmarsh]] and a direct descendant of [[Fensar Reedhand]], who signed the [[Pact of Root & Reed]] generations ago. He is a measured and soft-spoken leader whose authority rests less on formal power than on the weight of his presence and the depth of his patience.
