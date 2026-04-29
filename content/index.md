@@ -2,25 +2,26 @@
 title: Welcome to Sky's Minecraft Forever World!
 ---
 
-This wiki documents a long-term Minecraft survival world built to feel like a 
-single, historically layered, living setting. The world has no name given to it 
-by an outside observer. Different peoples call it different things in their own 
-languages.
+==This world does not have a name yet. If something comes to mind as you explore, the suggestion is more than a welcome one.==
 
-What is recorded here represents the world as it exists at a particular moment 
-in time -- its peoples, places, histories, and the slow-moving forces that 
-connect them. Not everything is explained. Fragments, conflicting accounts, and 
-half-remembered traditions are features of this world, not gaps in it.
+Welcome! What you are looking at is a long term Minecraft survival world built to feel like a place that has actually existed for a long time, one with geography, history, culture, and economy that inform every decision about what gets built, where, and why. It is not a collection of builds. It is a single interconnected world, and this wiki is how it keeps track of itself.
 
-## Where to Start
+The world is medieval in broad character but not rigidly so. It has trade routes and colonial histories and secret organizations and ancient things buried under ordinary places. It rewards curiosity. Things exist for reasons. The goal is a world where every corner feels lived in, where ruins hint at histories nobody fully remembers, and where the present makes sense because of a past that is only partially understood by the people in it.
 
-The [[01_Places/The-Great-Swamp|Great Swamp]] is the most lore-dense region 
-currently documented, home to the [[03_Groups/Swampfolk|Swampfolk]], the 
-[[03_Groups/Thornkin|Thornkin]], and the consequences of the 
-[[05_Events/Witch's-Sundering|Witch's Sundering]].
+## How To Read This Wiki
+---
+Articles cover the places, people, groups, events, and concepts that make up the world. They are written from an outside perspective, as though documenting a real place, rather than as game guides or build logs. Most are still being developed. A draft status means the article is incomplete or subject to change. ==Highlighted text like this== marks something unresolved or still being figured out.
 
-The [[01_Places/Flower-Forest-Village|Flower Forest Village]] and the culture 
-of [[04_Culture/Apiarianism|Apiarianism]] offer a quieter entry point, though 
-quieter does not mean without secrets.
+The folder structure on the left organizes articles by type. The graph view on the right shows how everything connects. Following links between articles is the best way to get a feel for how the world fits together.
 
-The graph view on the right shows how everything connects. Follow the links.
+A practical guide to navigating the wiki is available at [[How To Use This Wiki]].
+
+## What Kind Of Project Is This
+---
+This is a personal creative project built in survival Minecraft over a long period of time. The world is genuinely played in, not just built in, which means its history accumulates through actual gameplay as much as through planning. Friends have contributed to it. Everything is influenced by other people's work in ways both traceable and not. The full story of how this project is made, and the creator's honest feelings about all of it, is in this [[Ethical Statement]].
+
+## Where To Start
+---
+The world currently has two well developed regions worth exploring first. [[The Great Swamp]] is the most lore dense area, built around a conflict between industrial extraction and a fragile magical ecosystem nobody fully understands. The [[Main Trading Town]] is the economic heart of the world, a colonial port built on top of older histories, with secrets buried considerably deeper than anyone living there knows.
+
+Everything else is at various stages of development, but feel free to explore!
